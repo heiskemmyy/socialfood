@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 30px;
+    color: #2c3e50;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+thead {
+    background-color: #007bff;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
